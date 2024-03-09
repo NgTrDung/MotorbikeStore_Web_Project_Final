@@ -10,8 +10,8 @@
 - Motorcycle sales website is a project idea established based on the development of online business and the popularity of smart devices capable of accessing the internet. The purpose of the project is to build a friendly, convenient, and reliable web application for buying and selling motorbikes online.
 - Design websites using HTML, CSS, Javascript, Bootstrap, jQuery.
 - Communicate with database using JDBC.
-−	Implement the project according to the MVC model.
-−	Write website functions using Java Servlet, Ajax.
+-	Implement the project according to the MVC model.
+-	Write website functions using Java Servlet, Ajax.
 - `Here is the Youtube link to the Demo project video` (will be updated soon)
 
 
