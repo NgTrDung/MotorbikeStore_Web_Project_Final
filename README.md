@@ -19,7 +19,7 @@
 - The project is run on the Eclipse JEE platform, using jdk-17, apache-tomcat-9.0.82, apache-maven-3.9.5, database running on SQL Server Management Studio.
 - Link to install and configure JDK17, Apache Tomcat 9.0.82, Apache Maven 3.9.5, Eclipse JEE 2023-06:
   - [Youtube](https://youtu.be/7dh9lQr5tHY?si=NSUOaB9izGcUNQdp)
-- Đường dẫn đến các file .zip cài đặt:
+- Path to installation .zip files:
   - [apache-maven-3.9.5](https://1drv.ms/u/s!Al6AmgfoPYormCvRhwlnnuTX-vKG?e=p72nwE)
   - [apache-tomcat-9.0.82](https://1drv.ms/u/s!Al6AmgfoPYormCyDd5hxGbaifDpm?e=pUwqq0)
   - [jdk-17](https://1drv.ms/u/s!Al6AmgfoPYormC4hvfHYEKx8i94T?e=ZcS9eQ)
