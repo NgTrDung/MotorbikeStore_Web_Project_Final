@@ -20,7 +20,7 @@
 - Link to install and configure JDK17, Apache Tomcat 9.0.82, Apache Maven 3.9.5, Eclipse JEE 2023-06:
   - [Youtube](https://youtu.be/7dh9lQr5tHY?si=NSUOaB9izGcUNQdp)
 - Path to installation .rar files (from One Drive):
-  - [apache-maven-3.9.5, apache-tomcat-9.0.82, jdk-17, Eclipse JEE 2023-06]([https://1drv.ms/u/s!Al6AmgfoPYormCvRhwlnnuTX-vKG?e=p72nwE](https://1drv.ms/u/c/2b8a3de8079a805e/Ebm4lnEjpTNNuVxvHuk8DogBoQ7ZiH1yokDueMDmFcxJaw?e=T9m4B7))
+  - [apache-maven-3.9.5, apache-tomcat-9.0.82, jdk-17, Eclipse JEE 2023-06](https://1drv.ms/u/c/2b8a3de8079a805e/Ebm4lnEjpTNNuVxvHuk8DogBoQ7ZiH1yokDueMDmFcxJaw?e=bKT0ii)
 
 ### Some previously demoed versions (or the repo we made before completing the final version of this project) are available at:
 - [MotorbikeStore-SoftwareEngineeringproject-project](https://github.com/hg27haan/MotorbikeStore-SoftwareEngineeringproject-project)
